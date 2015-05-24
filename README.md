@@ -1,8 +1,16 @@
 Getting and Cleaning Data Course Project
-======================
+=====================================
+Working soruce files
+=====================================
 
-Repository for Cousera: https://class.coursera.org/getdata-014
+Source files can be accessed in the following directory next line. (I am not able to load the text and csv files due to poor connection. 
 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Cousera course detail : https://class.coursera.org/getdata-014
+
+Running the run_analysis.R script
+=====================================
 > run_analysis.R should do the following:
    
 >   1)  Merges the training and the test sets to create one data set.
