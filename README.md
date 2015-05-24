@@ -9,6 +9,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Cousera course detail : https://class.coursera.org/getdata-014
 
+Directory structure 
+>   1) Project source file cleanupData.Rproj
+
+>   2) CSV, .txt files located under sub direcotry "cleanupData/project_data"
+
+>   3) sub directory includes "test" and "train" under the above directory
+
 Running the run_analysis.R script
 =====================================
 > run_analysis.R should do the following:
